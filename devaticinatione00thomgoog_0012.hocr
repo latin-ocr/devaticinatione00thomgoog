@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./devaticinatione00thomgoog_0012.png"; bbox 0 0 3250 5120; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 605 1658 992 1770">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 605 1658 992 1770">
+     <span class='ocr_line' id='line_1_1' title="bbox 605 1658 992 1770; baseline 0 -10"><span class='ocrx_word' id='word_1_1' title='bbox 605 1659 753 1770; x_wconf 81' lang='lat' dir='ltr'>JULIO</span> <span class='ocrx_word' id='word_1_2' title='bbox 794 1658 992 1762; x_wconf 81' lang='lat' dir='ltr'><strong>GIRARD</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 481 1965 1121 2034">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 481 1965 1121 2034">
+     <span class='ocr_line' id='line_1_2' title="bbox 481 1965 1121 2034; baseline -0.003 -14"><span class='ocrx_word' id='word_1_3' title='bbox 481 1965 723 2020; x_wconf 75' lang='lat' dir='ltr'><strong>GRATUS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 752 1965 1121 2034; x_wconf 68' lang='lat' dir='ltr'><strong>msoffvms</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 619 2858 918 2944">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 619 2858 918 2944">
+     <span class='ocr_line' id='line_1_3' title="bbox 619 2858 918 2944; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 619 2858 623 2866; x_wconf 83' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_6' title='bbox 673 2881 837 2944; x_wconf 74' lang='lat' dir='ltr'>LlBELLUM</span> <span class='ocrx_word' id='word_1_7' title='bbox 861 2881 918 2944; x_wconf 72' lang='lat' dir='ltr'><strong>on.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1630 5120">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1630 5120">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1630 5120; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1630 5120; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
